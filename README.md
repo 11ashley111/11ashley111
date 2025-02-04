@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11ashley111" alt="11ashley111" /></a> </p>
 
-<img align="right" alt="coding" width=400 src="https://cdn-images-1.medium.com/v2/resize:fit:571/1*-teDpAIho_nzNShRswkfrQ.gif" >
+<img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1050/1*EJCwdiSf6ii3UMBG6WxUiQ.gif" >
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11ashley111" alt="11ashley111" /></a> </p> -->
 
